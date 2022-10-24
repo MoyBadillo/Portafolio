@@ -1,0 +1,101 @@
+Referencia,Tipo,Operacion,Ciudad,Superficie,Precio Venta,Precio Renta,Estatus,Apellido
+1,Parking,Renta,Veracruz,291,2133903,42678.06,Rentado,Sandiego
+2,Local,Venta,Minatitlan,199,1945424,38908.48,En Venta,Pascal
+3,Oficina,Renta,Minatitlan,82,712416,14248.32,En Renta,Phoenix
+4,Parking,Renta,Minatitlan,285,1815450,36309,Rentado,Ochoa
+5,Suelo,Venta,Xalapa,152,1138024,22760.48,En Venta,Badillo
+6,Industrial,Renta,Minatitlan,131,953156,19063.12,En Renta,Pascal
+7,Parking,Renta,Xalapa,69,406686,8133.72,En Renta,Pascal
+8,Oficina,Venta,Minatitlan,235,2158475,43169.5,En Venta,Ochoa
+9,Piso,Renta,Veracruz,108,1024380,20487.6,En Renta,Ochoa
+10,Parking,Venta,Veracruz,299,2042768,40855.36,En Venta,Phoenix
+11,Oficina,Renta,Minatitlan,124,627068,12541.36,Rentado,Pascal
+12,Industrial,Venta,Minatitlan,187,999328,19986.56,En Venta,Sandiego
+13,Parking,Venta,Coatzacoalcos,300,2937300,58746,En Venta,Ochoa
+14,Local,Venta,Xalapa,68,664700,13294,Vendido,Sandiego
+15,Industrial,Renta,Minatitlan,176,820336,16406.72,Rentado,Pascal
+16,Casa,Renta,Minatitlan,179,937960,18759.2,En Renta,Sandiego
+17,Casa,Renta,Xalapa,58,358846,7176.92,En Renta,Lane
+18,Suelo,Venta,Coatzacoalcos,283,1679605,33592.1,Vendido,Sandiego
+19,Piso,Renta,Minatitlan,55,472615,9452.3,En Renta,Lane
+20,Oficina,Renta,Coatzacoalcos,148,1169496,23389.92,Rentado,Badillo
+21,Industrial,Venta,Coatzacoalcos,228,2020992,40419.84,En Venta,Sandiego
+22,Oficina,Renta,Veracruz,116,727552,14551.04,Rentado,Pascal
+23,Casa,Renta,Minatitlan,183,1438929,28778.58,Rentado,Lane
+24,Oficina,Renta,Xalapa,79,427390,8547.8,En Renta,Phoenix
+25,Oficina,Renta,Coatzacoalcos,124,1170684,23413.68,En Renta,Ochoa
+26,Local,Renta,Xalapa,70,549780,10995.6,Rentado,Ochoa
+27,Local,Renta,Xalapa,70,659330,13186.6,Rentado,Pascal
+28,Casa,Renta,Coatzacoalcos,187,1660560,33211.2,En Renta,Phoenix
+29,Casa,Renta,Xalapa,91,753571,15071.42,En Renta,Lane
+30,Local,Renta,Xalapa,201,939072,18781.44,Rentado,Sandiego
+31,Industrial,Renta,Coatzacoalcos,142,1405374,28107.48,Rentado,Ochoa
+32,Casa,Renta,Minatitlan,92,627348,12546.96,En Renta,Badillo
+33,Local,Renta,Coatzacoalcos,181,1504110,30082.2,Rentado,Badillo
+34,Casa,Venta,Coatzacoalcos,281,2483197,49663.94,En Venta,Badillo
+35,Industrial,Renta,Xalapa,257,1799771,35995.42,En Renta,Lane
+36,Industrial,Renta,Xalapa,140,1054340,21086.8,Rentado,Lane
+37,Local,Venta,Minatitlan,229,1160572,23211.44,Vendido,Pascal
+38,Suelo,Renta,Xalapa,300,1492800,29856,En Renta,Phoenix
+39,Parking,Renta,Xalapa,215,1154980,23099.6,En Renta,Phoenix
+40,Oficina,Venta,Minatitlan,182,1057784,21155.68,En Venta,Ochoa
+41,Piso,Venta,Coatzacoalcos,230,1421860,28437.2,Vendido,Ochoa
+42,Oficina,Venta,Xalapa,168,1426992,28539.84,En Venta,Ochoa
+43,Oficina,Renta,Minatitlan,74,579716,11594.32,En Renta,Badillo
+44,Casa,Venta,Minatitlan,278,1537062,30741.24,En Venta,Badillo
+45,Oficina,Renta,Coatzacoalcos,287,2851058,57021.16,Rentado,Phoenix
+46,Oficina,Renta,Veracruz,224,1294048,25880.96,Rentado,Sandiego
+47,Piso,Renta,Coatzacoalcos,53,249418,4988.36,Rentado,Lane
+48,Industrial,Venta,Coatzacoalcos,284,1457488,29149.76,Vendido,Ochoa
+49,Local,Venta,Minatitlan,40,321680,6433.6,En Venta,Ochoa
+50,Local,Renta,Xalapa,235,957625,19152.5,Rentado,Sandiego
+51,Industrial,Venta,Veracruz,90,568620,11372.4,En Venta,Phoenix
+52,Local,Renta,Veracruz,206,1605564,32111.28,Rentado,Badillo
+53,Suelo,Renta,Xalapa,158,1438748,28774.96,Rentado,Sandiego
+54,Suelo,Renta,Coatzacoalcos,71,686996,13739.92,Rentado,Lane
+55,Local,Venta,Minatitlan,127,983234,19664.68,En Venta,Sandiego
+56,Piso,Venta,Veracruz,54,239220,4784.4,En Venta,Badillo
+57,Oficina,Renta,Veracruz,54,512730,10254.6,En Renta,Sandiego
+58,Local,Renta,Minatitlan,274,2287626,45752.52,En Renta,Badillo
+59,Industrial,Venta,Xalapa,166,1373816,27476.32,En Venta,Phoenix
+60,Oficina,Renta,Veracruz,270,1920240,38404.8,En Renta,Ochoa
+61,Casa,Venta,Xalapa,120,1140840,22816.8,Vendido,Sandiego
+62,Industrial,Venta,Xalapa,178,1142938,22858.76,En Venta,Phoenix
+63,Piso,Venta,Coatzacoalcos,144,738144,14762.88,Vendido,Lane
+64,Industrial,Venta,Veracruz,57,509010,10180.2,En Venta,Badillo
+65,Oficina,Venta,Xalapa,144,1436832,28736.64,En Venta,Lane
+66,Suelo,Venta,Veracruz,272,2119424,42388.48,En Venta,Pascal
+67,Industrial,Renta,Coatzacoalcos,219,948927,18978.54,En Renta,Ochoa
+68,Local,Renta,Coatzacoalcos,68,376992,7539.84,En Renta,Lane
+69,Local,Venta,Minatitlan,248,2212408,44248.16,En Venta,Badillo
+70,Casa,Renta,Xalapa,179,1647695,32953.9,En Renta,Badillo
+71,Casa,Venta,Minatitlan,235,1939925,38798.5,Vendido,Sandiego
+72,Suelo,Venta,Xalapa,216,1478952,29579.04,En Venta,Sandiego
+73,Parking,Renta,Coatzacoalcos,62,320044,6400.88,En Renta,Phoenix
+74,Industrial,Venta,Minatitlan,229,1098055,21961.1,Vendido,Phoenix
+75,Suelo,Venta,Xalapa,41,187862,3757.24,Vendido,Ochoa
+76,Suelo,Renta,Xalapa,234,1757106,35142.12,Rentado,Pascal
+77,Industrial,Renta,Xalapa,112,1104992,22099.84,En Renta,Pascal
+78,Piso,Venta,Veracruz,87,448485,8969.7,Vendido,Badillo
+79,Parking,Venta,Coatzacoalcos,298,2520484,50409.68,En Venta,Sandiego
+80,Parking,Renta,Coatzacoalcos,217,1339107,26782.14,En Renta,Sandiego
+81,Industrial,Renta,Coatzacoalcos,236,1812244,36244.88,En Renta,Pascal
+82,Parking,Venta,Minatitlan,117,1069731,21394.62,Vendido,Pascal
+83,Suelo,Venta,Veracruz,56,471072,9421.44,En Venta,Badillo
+84,Piso,Venta,Coatzacoalcos,94,470940,9418.8,Vendido,Sandiego
+85,Local,Renta,Coatzacoalcos,127,925322,18506.44,Rentado,Phoenix
+86,Piso,Venta,Minatitlan,275,2141700,42834,Vendido,Ochoa
+87,Industrial,Renta,Coatzacoalcos,93,778875,15577.5,En Renta,Lane
+88,Parking,Renta,Xalapa,58,421196,8423.92,En Renta,Pascal
+89,Local,Renta,Coatzacoalcos,49,219716,4394.32,En Renta,Ochoa
+90,Suelo,Venta,Minatitlan,292,2685816,53716.32,Vendido,Pascal
+91,Industrial,Renta,Coatzacoalcos,123,723609,14472.18,En Renta,Phoenix
+92,Piso,Renta,Coatzacoalcos,48,388032,7760.64,En Renta,Ochoa
+93,Industrial,Renta,Xalapa,132,922020,18440.4,Rentado,Phoenix
+94,Industrial,Renta,Coatzacoalcos,177,965358,19307.16,Rentado,Lane
+95,Local,Venta,Coatzacoalcos,68,663816,13276.32,Vendido,Phoenix
+96,Industrial,Renta,Xalapa,103,728931,14578.62,En Renta,Ochoa
+97,Suelo,Venta,Xalapa,96,625536,12510.72,Vendido,Ochoa
+98,Casa,Venta,Veracruz,227,1467782,29355.64,En Venta,Sandiego
+99,Industrial,Renta,Minatitlan,251,2067236,41344.72,Rentado,Badillo
+100,Local,Renta,Xalapa,125,531375,10627.5,Rentado,Ochoa
